@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MyEmojiKeyboardLikeWhatsApp</string>
+    <string name="giphyAPIKey"></string>
 </resources>
