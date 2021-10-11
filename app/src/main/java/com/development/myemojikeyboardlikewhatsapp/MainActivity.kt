@@ -82,9 +82,8 @@ class MainActivity : AppCompatActivity() {
                         binding.imgShow.visibility = View.VISIBLE
                     }
                 }
-
             }
         }
-        dialog.show(this.supportFragmentManager, "giphy_dialog");
+        dialog.show(this.supportFragmentManager, "giphy_dialog")
     }
 }
